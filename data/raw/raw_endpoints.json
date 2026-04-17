@@ -1,0 +1,17 @@
+{
+"users":[
+{"user_id":1,"name":"John Doe","email":"john@example.com"},
+{"userId":2,"name":"Jane Smith"},
+{"userid":3,"email":"bob@"}
+],
+"orders":[
+{"order_id":1001,"user_id":1,"total":1200,"status":"completed"},
+{"order_id":1002,"user_id":2,"status":"shipped"},
+{"order_id":1003,"user_id":null,"total":"1500"}
+],
+"products":[
+{"product_id":101,"name":"iPhone 13","price":999},
+{"product_id":102,"name":"Samsung Galaxy","price":"899"},
+{"product_id":null,"name":"Unknown Product"}
+]
+}

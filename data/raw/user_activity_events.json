@@ -1,0 +1,22 @@
+[
+{"event_id":"e1","userId":1,"event_type":"login","timestamp":"2023-05-01T10:00:00Z"},
+{"event_id":"e2","user_id":2,"event_type":"view_product","timestamp":"05/01/2023 10:05","product_id":101},
+{"event_id":"e3","userid":3,"event_type":"add_to_cart","timestamp":"2023-05-01 10:10:00","product_id":102},
+{"event_id":"e4","user_id":4,"event_type":"checkout","timestamp":"2023-05-01T10:15:00Z"},
+{"event_id":"e5","user_id":5,"event_type":"purchase","timestamp":"2023-05-01T10:20:00Z","order_id":1001},
+{"event_id":"e6","user_id":6,"event_type":"logout","timestamp":"2023-05-01T10:25:00Z"},
+{"event_id":"e7","user_id":null,"event_type":"login","timestamp":"2023-05-01T10:30:00Z"},
+{"event_id":"e8","user_id":8,"event_type":"view_product","timestamp":"2025-01-01T00:00:00Z"},
+{"event_id":"e9","user_id":9,"event_type":"add_to_cart","timestamp":"invalid_date"},
+{"event_id":"e10","user_id":10,"event_type":"purchase","order_id":1002},
+{"event_id":"e11","user_id":11,"event_type":"login","timestamp":"2023-05-01T10:40:00Z"},
+{"event_id":"e12","user_id":12,"event_type":"view_product","timestamp":"2023-05-01T10:45:00Z","product_id":103},
+{"event_id":"e13","user_id":13,"event_type":"add_to_cart","timestamp":"2023-05-01T10:50:00Z","product_id":104},
+{"event_id":"e14","user_id":14,"event_type":"checkout","timestamp":"2023-05-01T10:55:00Z"},
+{"event_id":"e15","user_id":15,"event_type":"purchase","timestamp":"2023-05-01T11:00:00Z","order_id":1003},
+{"event_id":"e16","user_id":16,"event_type":"logout","timestamp":"2023-05-01T11:05:00Z"},
+{"event_id":"e17","user_id":17,"event_type":"login","timestamp":"2023-05-01T11:10:00Z"},
+{"event_id":"e18","user_id":18,"event_type":"view_product","timestamp":"2023-05-01T11:15:00Z","product_id":105},
+{"event_id":"e19","user_id":19,"event_type":"add_to_cart","timestamp":"2023-05-01T11:20:00Z","product_id":106},
+{"event_id":"e20","user_id":20,"event_type":"checkout","timestamp":"2023-05-01T11:25:00Z"}
+]
