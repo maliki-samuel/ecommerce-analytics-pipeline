@@ -1,0 +1,31 @@
+product_id,name,category,price,stock
+101,iPhone 13,Electronics,999,50
+102,Samsung Galaxy S21,Electronics,899,40
+103,MacBook Pro,Electronics,1999,30
+104,Office Chair,Furniture,150,20
+105,Desk,Furniture,200,15
+106,T-shirt,Clothing,20,100
+107,Jeans,Clothing,50,80
+108,Sneakers,Clothing,70,60
+109,Headphones,Electronics,100,90
+110,Monitor,Electronics,300,25
+111,Mouse,Electronics,25,200
+112,Keyboard,Electronics,45,150
+113,Table Lamp,Furniture,30,70
+114,Sofa,Furniture,500,10
+115,Bed Frame,Furniture,800,5
+116,Watch,Accessories,150,40
+117,Sunglasses,Accessories,80,60
+118,Backpack,Accessories,60,70
+119,Water Bottle,Accessories,10,200
+120,Notebook,Stationery,5,500
+121,Pen,Stationery,2,1000
+122,Printer,Electronics,120,30
+123,Camera,Electronics,700,15
+124,Tripod,Electronics,50,25
+125,Charger,Electronics,"20",100
+126,Power Bank,Electronics,"1k",50
+127,,Electronics,300,20
+128,Tablet,Electronics,-200,10
+129,Laptop Stand,Electronics,40,unknown
+130,Laptop Stand,Electronics,40,unknown

@@ -1,0 +1,32 @@
+user_id,name,email,signup_date,country
+1,John Doe,john@example.com,2023-01-12,USA
+2,Jane Smith,jane.smith@email.com,01/15/2023,UK
+3,Bob Johnson,bob@,2023-02-30,Canada
+4,Alice Brown,,2023/03/05,USA
+5,Chris Green,chris.green@email.com,2023-03-10,N/A
+6,David Lee,david.lee@email.com,2023-13-01,USA
+7,Emma Wilson,emma@email.com,2023-04-01,UK
+8,Olivia Taylor,olivia@email.com,2023-04-02,UK
+9,Liam Davis,liam@email,2023-04-03,USA
+10,Noah White,noah.white@email.com,2023-04-04,USA
+11,Emma Wilson,emma@email.com,2023-04-01,UK
+12,,unknown@email.com,2023-04-05,Canada
+13,Ava Thomas,ava@email.com,2023-04-06,USA
+14,Isabella Moore,isabella@email.com,04-07-2023,USA
+15,Mason Martin,mason@email.com,2023/04/08,USA
+16,Lucas Jackson,lucas@email.com,2023-04-09,UK
+17,,mia@email.com,2023-04-10,USA
+18,Ethan Harris,ethan@email.com,2023-04-11,USA
+19,James Clark,james@email.com,2023-04-12,USA
+20,Benjamin Lewis,benjamin@email.com,2023-04-13,USA
+21,Michael Lee,michael@email.com,2023-04-14,USA
+22,William Walker,william@email.com,2023-04-15,USA
+23,unknown,,2023-04-16,USA
+24,Alexander Hall,alex@email.com,2023-04-17,USA
+25,Henry Allen,henry@email.com,2023-04-18,USA
+26,Daniel Young,daniel@email.com,2023-04-19,USA
+27,Matthew King,matthew@email.com,2023-04-20,USA
+28,Joseph Wright,joseph@email.com,2023-04-21,USA
+29,Samuel Scott,samuel@email.com,2023-04-22,USA
+30,David Green,david.green@email.com,2023-04-23,USA
+31,David Green,david.green@email.com,2023-04-23,USA

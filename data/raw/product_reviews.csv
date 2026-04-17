@@ -1,0 +1,31 @@
+review_id,user_id,product_id,rating,comment
+r1,1,101,5,Great product
+r2,2,102,4,Good
+r3,3,103,3,Average
+r4,4,104,2,Bad
+r5,5,105,1,Terrible
+r6,6,106,5,Excellent
+r7,7,107,4,Nice
+r8,8,108,3,Okay
+r9,9,109,2,Not good
+r10,10,110,1,Worst
+r11,11,111,5,Perfect
+r12,12,112,4,Good
+r13,13,113,3,Average
+r14,14,114,2,Bad
+r15,15,115,1,Terrible
+r16,16,116,5,Excellent
+r17,17,117,4,Nice
+r18,18,118,3,Okay
+r19,19,119,2,Not good
+r20,20,120,1,Worst
+r21,21,121,5,Perfect
+r22,22,122,4,Good
+r23,23,123,3,Average
+r24,24,124,2,Bad
+r25,25,125,1,Terrible
+r26,26,126,5,Excellent
+r27,27,127,4,Nice
+r28,28,128,3,Okay
+r29,29,129,2,Not good
+r30,30,130,1,Worst
